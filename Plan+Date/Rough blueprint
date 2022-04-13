@@ -1,0 +1,30 @@
+Izzy will be an advanced AI that will start as a basic assistance tool, but later develop into a robot that can make simple decisions based on user input such as reading 
+out text from an Instagram notification, call someone, or report on the weather in a city, etc.
+
+Ultimately, Izzy will be able to make decisions on her own based on statistical/logical decisions and assisting me with possible solutions to problems based on machine 
+learning algorithms.
+
+
+Stage 1:
+-Create Izzy
+-Every morning with my alarm, Izzy will read out today's weather, news and notifications from my phone.
+
+
+Stage 2:
+-Izzy will perform tasks upon request (parse voice and make decisions).
+
+
+Stage 3:
+-Izzy will assist me in decision making based on statistics and logistics/logic. For example, if I say "I'm kinda hungry", she will be able to ask me what I want to eat 
+and find the nearest 10 restaurants that fit into my current day's nutrition intake/nutrition plan.
+
+
+
+
+
+Problems/Things to think about:
+1. What is the interface? Will Izzy be an App? If so, how do I get her to always run in the background and be able to take in information from my phone? Will Izzy be some 
+form of hardware on its own? Something like a separate phone that takes my phone's data as input to read out a notification? Or maybe some kind of device I carry with me 
+and can speak into/receive information from all the time? Earphones kind of hurt my ears, so maybe something like hearing aid shaped tool?
+
+2. What library should I take the voice parsing/robot voice from? Apple would be nice, but do they have open sourcing? Can I use it under their license?
