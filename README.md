@@ -1,0 +1,2 @@
+# Izzy
+Personal assistance AI
