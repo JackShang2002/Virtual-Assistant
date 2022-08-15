@@ -1,5 +1,16 @@
 # Izzy
-Personal assistance AI named Izzy (will be referred to as Izzy from now on) that can respond to several function calls through parsing keywords from microphone input. List of functions below:
+Personal assistance AI named Izzy (will be referred to as Izzy from now on) that can respond to several function calls through parsing keywords from microphone input. 
+
+Main file can be found in folder Izzy, as Izzy.py
+
+
+
+
+
+
+
+
+List of functions below:
 
 
 Repeat: sentence containing "repeat please" will cause previous prompt to be repeated.
